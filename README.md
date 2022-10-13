@@ -1,1 +1,1 @@
-# active_inference_morphopsy-.
+# Active inference, morphogenesis and computational psychiatry
